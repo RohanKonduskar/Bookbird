@@ -27,3 +27,26 @@ These are the following features of Bookbird
 8.Add to cart
 
 9.Purchase Books
+
+
+# *How to run :-* 
+
+1.Download the zip file.
+
+2.Download and install XAMPP
+
+3.Run the XAMPP control panel and start MySQL and Apache
+
+4.Go to C:\xampp\htdocs and extract the downloaded zip file (Bookbird) inside the folder
+
+5.Open the browser and go to http://localhost/phpmyadmin/ to create the database
+
+6.Click the new to create a database.
+
+7.Name the database sourcecodester_bookdb.
+
+8.Click import to import the sql file.
+
+9.Click choose file and select the file that can be found inside the Bookbird folder
+
+10.Open the browser and go to  http://localhost/Bookbird
