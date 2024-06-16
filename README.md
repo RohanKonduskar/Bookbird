@@ -3,19 +3,27 @@
 
 # *INTRODUCTION :-*
 
-The main aim of the project is to create an online book store Management that allows users to search and purchase a book online based on title, author and subject. The selected books are displayed in a tabular format and the user can order their books online through credit card payment. Using this Website the user can purchase a book online instead of going out to a book store and wasting time.Online Book store Management System is an online web application where the customer can purchase books online. Through a web browser the customers can search for a book by its title or author, later can add to the shopping cart and finally purchase using various payment methods. The user can login using his account details or new customers can set up an account very quickly. They should give the details of their name, contact number and shipping address. The books are divided into many categories based on subject like fiction, nonfiction, Biography, Historical Fiction etc.
+The main purpose of this Simple E-Commerce Bookstore in PHP/MySQLi is to allow book owners to post the books that they want to sell online. In this way the customers can easily select for the books that they want to purchase depending on their desire. Before the customer or user can browse books on the website, he/she has to register to log in and have an access into the Simple E-Commerce Bookstore in PHP/MySQLi. Once he already has an account he can now view the displayed available books in the store. He can easily search for books because the Simple E-Commerce Bookstore in PHP/MySQLi provides the books categories, authors and book description. Then, the prices of books are also posted so the customers can sort out the books based on price or discount. If ever the customer or user has any questions about the books that he/she wants to purchase, he can directly contact the admin by sending an email.
 
 
-# *Project Requirments :-*
+# *FEACTURES :-*
 
-Project Name :	Bookbird
+These are the following features of Bookbird
 
-Language : Used	PHP5.6, PHP7.x
+1.Signup
 
-Database :	MySQL 5.x
+2.Customer Login
 
-User Interface Design :	HTML, AJAX,JQUERY,JAVASCRIPT
+3.Customer Search Book by Author
 
-Web Browser :	Mozilla, Google Chrome, IE8, OPERA
+4.Search Book by Category
 
-Software	: XAMPP / Wamp / Mamp/ Lamp (anyone)
+5.Category of Books
+
+6.List of Books By Category
+
+7.List of Book by Author
+
+8.Add to cart
+
+9.Purchase Books
